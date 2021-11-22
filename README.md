@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi all👋,
+I am a software developer from Nairobi, Kenya. I was born and raised in Nairobi. I am very passionate about design and development of software products across a range of devices and platforms.
 
 <!--
 **ray3du/ray3du** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
