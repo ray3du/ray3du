@@ -16,7 +16,7 @@ I have expertise in:
 
 - ✨ Front-end development: HTML, CSS, JavaScript, React
 - 💾 Back-end development:Python, Django, Flask, FastAPI
-- 📱 Mobile app development: React Native
+- 📱 Mobile app development: React Native, Java
 - 🖥️ Desktop app development: Electron
 
 ## Get in Touch
