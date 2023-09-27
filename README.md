@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Edwin (ray3du), a software developer from Nairobi, Kenya. I have a strong passion for designing and developing software products that work seamlessly across various devices and platforms.
+I'm Edwin (ray3du), a Full-Stack Software Engineer from Nairobi, Kenya. I have a strong passion for designing and developing software products that work seamlessly across various devices and platforms.
 
 ## About Me
 
@@ -15,7 +15,7 @@ As a software developer, I am dedicated to creating innovative solutions that ad
 I have expertise in:
 
 - ✨ Front-end development: HTML, CSS, JavaScript, React
-- 💾 Back-end development:Python, Django, Flask, FastAPI
+- 💾 Back-end development:Python, Django, Flask, FastAPI, Golang
 - 📱 Mobile app development: React Native, Java
 - 🖥️ Desktop app development: Electron
 
