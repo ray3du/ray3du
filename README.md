@@ -15,8 +15,8 @@ As a software developer, I am dedicated to creating innovative solutions that ad
 I have expertise in:
 
 - ✨ Front-end development: HTML, CSS, JavaScript, React
-- 💾 Back-end development:Python, Django, Flask, FastAPI, Golang
-- 📱 Mobile app development: React Native, Java
+- 💾 Back-end development:Python, Django, Flask, FastAPI
+- 📱 Mobile app development: React Native
 - 🖥️ Desktop app development: Electron
 
 ## Get in Touch
