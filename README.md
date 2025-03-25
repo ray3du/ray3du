@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Edwin (ray3du), a Full-Stack Software Engineer from Nairobi, Kenya. I have a strong passion for designing and developing software products that work seamlessly across various devices and platforms.
+I'm Edwin, a serial software producer and a problem solver 
 
 ## About Me
 
@@ -29,3 +29,4 @@ You can connect with me on:
 - 📧 [Email](mailto:edwinngugi149@gmail.com)
 
 Let's collaborate and build something awesome together! 😊
+
