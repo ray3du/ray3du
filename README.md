@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Edwin, a serial software producer and a problem solver 
+I'm Edwin, a serial software engineer and a problem solver 
 
 ## About Me
 
