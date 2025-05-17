@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Edwin, a serial software engineer and a problem solver 
+🚀 Hi, I'm Edwin — a passionate software engineer and relentless problem solver, driven to build efficient, scalable solutions across platforms.
 
 ## About Me
 
