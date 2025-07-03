@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-🚀 Hi, I'm Edwin — a passionate software engineer and relentless problem solver, driven to build efficient, scalable solutions across platforms.
+🚀 Hi, I'm Edwin a passionate software engineer and relentless problem solver, driven to build efficient, scalable solutions across platforms.
 
 ## About Me
 
